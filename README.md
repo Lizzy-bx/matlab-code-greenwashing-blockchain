@@ -5,7 +5,7 @@ This repository contains the MATLAB code used in the simulation analysis for the
 **Avoiding Greenwashing Behaviors in Green Supply Chain Finance: The Role of Blockchain Technology**
 
 ## Files
-- `main.m`: main simulation script
+- `Simulations.m`: main simulation script
 - `green.m`: replicator dynamics before blockchain adoption
 - `green2.m`: replicator dynamics after blockchain adoption
 
